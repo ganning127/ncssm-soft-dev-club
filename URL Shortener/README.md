@@ -1,4 +1,4 @@
-# Personal Website 🔗
+# URL shortner 🔗
 
 Created a URL shortner using `Node.js`, `Replit Database`, `express`, and `path`.
 
